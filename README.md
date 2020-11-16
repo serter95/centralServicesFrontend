@@ -15,7 +15,8 @@ Please use the following commands in your terminal:
 2. yarn install (with npm: npm install)
 
 3. yarn dev (with npm: npm run dev)
-
+ 
+To view it, go to http://localhost:3000
 ## Español
 
 ### Configuración de compilación
@@ -31,3 +32,5 @@ Por favor coloque los siguientes comandos en su terminal:
 2. yarn install (con npm: npm install)
 
 3. yarn dev (con npm: npm run dev)
+
+Para visulizar el mismo acceda http://localhost:3000
