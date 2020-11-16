@@ -10,7 +10,7 @@ Also you make be sure that you have the test backend running: https://github.com
 
 Please use the following commands in your terminal:
 
-1. git clone 
+1. git clone https://github.com/serter95/centralServicesFrontend.git
 
 2. yarn install (with npm: npm install)
 
@@ -26,7 +26,7 @@ Además, asegúrese de tener el backend de prueba en ejecución: https://github.
 
 Por favor coloque los siguientes comandos en su terminal:
 
-1. git clone 
+1. git clone https://github.com/serter95/centralServicesFrontend.git
 
 2. yarn install (con npm: npm install)
 
